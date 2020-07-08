@@ -1,0 +1,14 @@
+header{
+    float: right;
+}
+body{
+    background-color: brown;
+}
+p{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: cyan;
+}
+h1{
+    color: darkgoldenrod;
+}
